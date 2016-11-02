@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\bin\x64\Debug\Test.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\bin\x64\Debug\Test.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\bin\x64\Debug\System.Management.Automation.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\obj\x64\Debug\Test.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\obj\x64\Debug\Test.pdb

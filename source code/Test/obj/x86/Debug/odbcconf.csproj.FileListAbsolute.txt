@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\bin\x86\Debug\odbcconf.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\bin\x86\Debug\odbcconf.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\bin\x86\Debug\System.Management.Automation.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\obj\x86\Debug\odbcconf.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\obj\x86\Debug\odbcconf.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Test\Test\obj\x86\Debug\odbcconf.pdb
